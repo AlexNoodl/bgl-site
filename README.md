@@ -1,2 +1,3 @@
-# BGL-site
-## Frontend service for BGL project
+# BGL Site
+
+## Frontend Service for BGL project
